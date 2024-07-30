@@ -11,4 +11,4 @@
 - OS : Linux ou/et Windows
 - .Net SDK & Runtime (.NET 7 ou plus) pour les projets dotnet
 
-
+**Dans le cadre pédagogique, toute utilisation des ressources éducatives doit être orientée vers l'acquisition de compétences et de connaissances, favorisant ainsi un apprentissage actif et constructif. Je tiens à préciser que je ne suis pas responsable de toute utilisation inappropriée.**
