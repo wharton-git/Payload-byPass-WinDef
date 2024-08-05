@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Tools-Metasploit-red) ![Static Badge](https://img.shields.io/badge/Cyber-Security-green) ![Static Badge](https://img.shields.io/badge/Langage-CScharp-blue) ![Static Badge](https://img.shields.io/badge/Langage-CScharp-blue)
+![Static Badge](https://img.shields.io/badge/Tools-Metasploit-red) ![Static Badge](https://img.shields.io/badge/Cyber-Security-green) ![Static Badge](https://img.shields.io/badge/Langage-CScharp-blue)
 ![Static Badge](https://img.shields.io/badge/OS-Windows-lightblue)
 ![Static Badge](https://img.shields.io/badge/OS-Linux-lightgreen)
 
